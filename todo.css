@@ -1,0 +1,43 @@
+.container {
+    width: 80%;
+    height: auto;
+}
+
+.foot {
+    position: fixed;
+    left: 10%;
+    width: 80%;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-weight: normal;
+    color: pink;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    white-space: nowrap;
+    z-index: 1000;
+    font-family: 'Bangers', cursive;
+   
+}
+
+
+body {
+    color: pink;
+    font-family: 'Raleway';
+    font-size: 1.6rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    height: 100vh;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.alert-success {
+    color: red;
+    background-color: #dff0d8;
+    font-family: 'Bangers', cursive;
+    border-color: #d6e9c6;
+    font-weight: bold;
+}
